@@ -15,11 +15,14 @@ A modern, web-based interface for managing MongoDB users, roles, and privileges.
 
 ## Screenshots
 
-_Screenshots will be added soon_
+![Login Screen](assets/login.jpeg)
+![Roles Management](assets/roles.jpeg)
+![Users Management](assets/users.jpeg)
 
 ## Demo
 
-_Demo link will be added soon_
+
+[Live Demo](https://access-demo.eshopdev.com/)
 
 ## Prerequisites
 
@@ -242,4 +245,4 @@ For questions or support, please open an issue in the GitHub repository.
 
 ---
 
-Made with ❤️ by the open source community
+Made with ❤️ for the open source community
